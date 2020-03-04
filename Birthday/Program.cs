@@ -3,7 +3,7 @@ using System.Globalization;
 
 namespace Birthday
 {
-    class Program
+    public class BirthdayProgram
     {
         static void Main(string[] args)
         {
@@ -35,7 +35,7 @@ namespace Birthday
             }
             catch
             {
-                Console.WriteLine("That is not a valid date for the app to process, try dd/mm/yyyy");
+                Console.WriteLine("That is not a valid date for the app to process, trs ty dd/mm/yyyy");
                 Application();
             }
 
@@ -83,15 +83,13 @@ namespace Birthday
 
             if (compare == 0 || compare <= 0)
             {
-               string goose = newDate.ToString(" dd/MM/yyyy") + " was on a " + newDate.ToString("dddd");
-               return goose;
+               string birthdayPast = newDate.ToString(" dd/MM/yyyy") + " was on a " + newDate.ToString("dddd");
+               return birthdayPast;
             } else
             {
-                string goose = newDate.ToString(" dd/MM/yyyy") + " is going to be on a " + newDate.ToString("dddd");
-                return goose;
+                string birthdayFuture = newDate.ToString(" dd/MM/yyyy") + " is going to be on a " + newDate.ToString("dddd");
+                return birthdayFuture;
             }
-
-
         }
     }
 }

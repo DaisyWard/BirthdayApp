@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\daisy.w\\source\\repos\\Birthday\\Birthday\\Birthday.csproj",
+      "projectUniqueName": "C:\\Users\\daisy.w\\source\\repos\\BirthdayApp\\Birthday\\Birthday.csproj",
       "projectName": "Birthday",
-      "projectPath": "C:\\Users\\daisy.w\\source\\repos\\Birthday\\Birthday\\Birthday.csproj",
+      "projectPath": "C:\\Users\\daisy.w\\source\\repos\\BirthdayApp\\Birthday\\Birthday.csproj",
       "packagesPath": "C:\\Users\\daisy.w\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\daisy.w\\source\\repos\\Birthday\\Birthday\\obj\\",
+      "outputPath": "C:\\Users\\daisy.w\\source\\repos\\BirthdayApp\\Birthday\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\daisy.w\\AppData\\Roaming\\NuGet\\NuGet.Config",
