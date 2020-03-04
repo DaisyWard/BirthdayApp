@@ -1,0 +1,11 @@
+C:\Users\daisy.w\source\repos\Birthday\Birthday\bin\Debug\netcoreapp3.1\Birthday.exe
+C:\Users\daisy.w\source\repos\Birthday\Birthday\bin\Debug\netcoreapp3.1\Birthday.deps.json
+C:\Users\daisy.w\source\repos\Birthday\Birthday\bin\Debug\netcoreapp3.1\Birthday.runtimeconfig.json
+C:\Users\daisy.w\source\repos\Birthday\Birthday\bin\Debug\netcoreapp3.1\Birthday.runtimeconfig.dev.json
+C:\Users\daisy.w\source\repos\Birthday\Birthday\bin\Debug\netcoreapp3.1\Birthday.dll
+C:\Users\daisy.w\source\repos\Birthday\Birthday\bin\Debug\netcoreapp3.1\Birthday.pdb
+C:\Users\daisy.w\source\repos\Birthday\Birthday\obj\Debug\netcoreapp3.1\Birthday.csprojAssemblyReference.cache
+C:\Users\daisy.w\source\repos\Birthday\Birthday\obj\Debug\netcoreapp3.1\Birthday.AssemblyInfoInputs.cache
+C:\Users\daisy.w\source\repos\Birthday\Birthday\obj\Debug\netcoreapp3.1\Birthday.AssemblyInfo.cs
+C:\Users\daisy.w\source\repos\Birthday\Birthday\obj\Debug\netcoreapp3.1\Birthday.dll
+C:\Users\daisy.w\source\repos\Birthday\Birthday\obj\Debug\netcoreapp3.1\Birthday.pdb
